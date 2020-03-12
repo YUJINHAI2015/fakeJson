@@ -1,0 +1,270 @@
+{
+    "status": 0,
+    "message": "Everything is ok",
+    "data": {
+        "selected_data": [
+            {
+                "banner": {
+                    "bannerSection": {
+                        "count_down": null,
+                        "link": null,
+                        "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                        "sub_title": null,
+                        "tital": "会员专属"
+                    },
+                    "bannerDetail": [
+                        {
+                            "canget": false,
+                            "content_type": "AD",
+                            "coupon_source": null,
+                            "hit_count": null,
+                            "id": "fb08c79881b246da8e48cc1456777e40",
+                            "img": "d8b8e599-26cf-46d3-8041-eff9b8cc1850@tag1",
+                            "istook": false,
+                            "link": "https://mp.weixin.qq.com/s/W4QjTsOH6v_8D0WVwNRDYQ",
+                            "remark": null,
+                            "reson": null,
+                            "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                            "summary": "一合",
+                            "title": "Banner-口罩活动攻略",
+                            "use_url": null
+                        }
+                    ]
+                }
+            },
+            {
+                "miniapp": {
+                    "miniappSection": {
+                        "count_down": null,
+                        "link": null,
+                        "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                        "sub_title": null,
+                        "tital": "会员专属"
+                    },
+                    "miniappDetail": [
+                        {
+                            "canget": false,
+                            "content_type": "AD",
+                            "coupon_source": null,
+                            "hit_count": null,
+                            "id": "fb08c79881b246da8e48cc1456777e40",
+                            "img": "d8b8e599-26cf-46d3-8041-eff9b8cc1850@tag1",
+                            "istook": false,
+                            "link": "https://mp.weixin.qq.com/s/W4QjTsOH6v_8D0WVwNRDYQ",
+                            "remark": null,
+                            "reson": null,
+                            "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                            "summary": "一合",
+                            "title": "Banner-口罩活动攻略",
+                            "use_url": null
+                        }
+                    ]
+                }
+            },
+            {
+                "headAd": {
+                    "headAdSection": {
+                        "count_down": null,
+                        "link": null,
+                        "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                        "sub_title": null,
+                        "tital": "会员专属"
+                    },
+                    "headAdDetail": [
+                        {
+                            "canget": false,
+                            "content_type": "AD",
+                            "coupon_source": null,
+                            "hit_count": null,
+                            "id": "fb08c79881b246da8e48cc1456777e40",
+                            "img": "d8b8e599-26cf-46d3-8041-eff9b8cc1850@tag1",
+                            "istook": false,
+                            "link": "https://mp.weixin.qq.com/s/W4QjTsOH6v_8D0WVwNRDYQ",
+                            "remark": null,
+                            "reson": null,
+                            "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                            "summary": "一合",
+                            "title": "Banner-口罩活动攻略",
+                            "use_url": null
+                        }
+                    ]
+                }
+            },
+            {
+                "exclusive": {
+                    "exclusiveSection": {
+                        "count_down": null,
+                        "link": null,
+                        "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                        "sub_title": null,
+                        "tital": "会员专属"
+                    },
+                    "exclusiveDetail": [
+                        {
+                            "canget": false,
+                            "content_type": "AD",
+                            "coupon_source": null,
+                            "hit_count": null,
+                            "id": "fb08c79881b246da8e48cc1456777e40",
+                            "img": "d8b8e599-26cf-46d3-8041-eff9b8cc1850@tag1",
+                            "istook": false,
+                            "link": "https://mp.weixin.qq.com/s/W4QjTsOH6v_8D0WVwNRDYQ",
+                            "remark": null,
+                            "reson": null,
+                            "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                            "summary": "一合",
+                            "title": "Banner-口罩活动攻略",
+                            "use_url": null
+                        }
+                    ]
+                }
+            },
+            {
+                "activities": {
+                    "activitiesSection": {
+                        "count_down": null,
+                        "link": null,
+                        "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                        "sub_title": null,
+                        "tital": "会员专属"
+                    },
+                    "activitiesDetail": [
+                        {
+                            "canget": false,
+                            "content_type": "AD",
+                            "coupon_source": null,
+                            "hit_count": null,
+                            "id": "fb08c79881b246da8e48cc1456777e40",
+                            "img": "d8b8e599-26cf-46d3-8041-eff9b8cc1850@tag1",
+                            "istook": false,
+                            "link": "https://mp.weixin.qq.com/s/W4QjTsOH6v_8D0WVwNRDYQ",
+                            "remark": null,
+                            "reson": null,
+                            "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                            "summary": "一合",
+                            "title": "Banner-口罩活动攻略",
+                            "use_url": null
+                        }
+                    ]
+                }
+            },
+            {
+                "exclusiveGiftPackage": {
+                    "exclusiveGiftPackageSection": {
+                        "count_down": null,
+                        "link": null,
+                        "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                        "sub_title": null,
+                        "tital": "会员专属"
+                    },
+                    "exclusiveGiftPackageDetail": [
+                        {
+                            "canget": false,
+                            "content_type": "AD",
+                            "coupon_source": null,
+                            "hit_count": null,
+                            "id": "fb08c79881b246da8e48cc1456777e40",
+                            "img": "d8b8e599-26cf-46d3-8041-eff9b8cc1850@tag1",
+                            "istook": false,
+                            "link": "https://mp.weixin.qq.com/s/W4QjTsOH6v_8D0WVwNRDYQ",
+                            "remark": null,
+                            "reson": null,
+                            "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                            "summary": "一合",
+                            "title": "Banner-口罩活动攻略",
+                            "use_url": null
+                        }
+                    ]
+                }
+            },
+            {
+                "cashGiftBag": {
+                    "cashGiftBagSection": {
+                        "count_down": null,
+                        "link": null,
+                        "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                        "sub_title": null,
+                        "tital": "会员专属"
+                    },
+                    "cashGiftBagDetail": [
+                        {
+                            "canget": false,
+                            "content_type": "AD",
+                            "coupon_source": null,
+                            "hit_count": null,
+                            "id": "fb08c79881b246da8e48cc1456777e40",
+                            "img": "d8b8e599-26cf-46d3-8041-eff9b8cc1850@tag1",
+                            "istook": false,
+                            "link": "https://mp.weixin.qq.com/s/W4QjTsOH6v_8D0WVwNRDYQ",
+                            "remark": null,
+                            "reson": null,
+                            "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                            "summary": "一合",
+                            "title": "Banner-口罩活动攻略",
+                            "use_url": null
+                        }
+                    ]
+                }
+            },
+            {
+                "limitedWelfare": {
+                    "limitedWelfareSection": {
+                        "count_down": null,
+                        "link": null,
+                        "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                        "sub_title": null,
+                        "tital": "会员专属"
+                    },
+                    "limitedWelfareDetail": [
+                        {
+                            "canget": false,
+                            "content_type": "AD",
+                            "coupon_source": null,
+                            "hit_count": null,
+                            "id": "fb08c79881b246da8e48cc1456777e40",
+                            "img": "d8b8e599-26cf-46d3-8041-eff9b8cc1850@tag1",
+                            "istook": false,
+                            "link": "https://mp.weixin.qq.com/s/W4QjTsOH6v_8D0WVwNRDYQ",
+                            "remark": null,
+                            "reson": null,
+                            "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                            "summary": "一合",
+                            "title": "Banner-口罩活动攻略",
+                            "use_url": null
+                        }
+                    ]
+                }
+            },
+            {
+                "selfRun": {
+                    "selfRunSection": {
+                        "count_down": null,
+                        "link": null,
+                        "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                        "sub_title": null,
+                        "tital": "会员专属"
+                    },
+                    "selfRunDetail": [
+                        {
+                            "canget": false,
+                            "content_type": "AD",
+                            "coupon_source": null,
+                            "hit_count": null,
+                            "id": "fb08c79881b246da8e48cc1456777e40",
+                            "img": "d8b8e599-26cf-46d3-8041-eff9b8cc1850@tag1",
+                            "istook": false,
+                            "link": "https://mp.weixin.qq.com/s/W4QjTsOH6v_8D0WVwNRDYQ",
+                            "remark": null,
+                            "reson": null,
+                            "section_id": "6cf5b64d1d5742a7bff255aca028cd43",
+                            "summary": "一合",
+                            "title": "Banner-口罩活动攻略",
+                            "use_url": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "user_info": null
+    }
+}
